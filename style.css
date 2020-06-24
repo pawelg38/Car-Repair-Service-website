@@ -1,0 +1,128 @@
+.b
+{
+	border: 1px solid red;
+}
+.myContent
+{
+	height: 1000px;
+	text-align: center;
+}
+.myMenuBar
+{
+	padding: 16px;
+	font-size: 30px;
+	text-align: center;
+}
+.logo
+{
+	margin-right: 20px;
+}
+.iconBundle
+{
+	text-align: center;
+	background-color: rgb(144, 181, 240);
+	background-color: rgb(99, 132, 186);
+	background-color: rgb(54, 76, 112);
+	font-family: 'Montserrat', sans-serif;
+}
+.iconBundle figcaption
+{
+	color: white;
+	font-weight: 700;
+}
+.bgColor1
+{
+	background-color: rgb(54, 76, 112);
+}
+.bgColor2
+{
+	background-color: rgb(99, 132, 186);
+}
+.bgColor3
+{
+	background-color: rgb(144, 181, 240);
+}
+.bgColor4
+{
+	background-color: rgb(54, 76, 112);
+}
+.iconImg
+{
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.pricesDiv
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 50px;
+}
+.pricesDiv h1
+{
+	margin: 30px 0 30px 0;
+}
+.pricesTable
+{
+}
+.pricesTable .tCol1
+{
+	width: 50%;
+}
+.pricesTable .tCol2
+{
+	width: 50%;
+}
+.contact
+{
+	background-color: rgb(99, 132, 186);
+	text-align: center;
+	padding: 30px 0 30px 0;
+}
+.contact h1
+{
+	margin: 0 0 30px 0;
+}
+.footer
+{
+	color: white;
+}
+.footer_col1
+{
+
+}
+.footer h5
+{
+	margin: 20px 0 20px 0;
+}
+.footer p
+{
+	font-weight: 300;
+}
+.test
+{
+	color: white;
+	background-color: rgb(41, 43, 44);
+}
+.myNavbar
+{
+	color: white;
+}
+.myNavbar a:link
+{
+	color: white;
+	text-decoration: none;
+}
+.myNavbar a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+.myNavbar a:visited
+{
+	color: white;
+	text-decoration: none;
+}
